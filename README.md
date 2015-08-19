@@ -7,11 +7,14 @@ To compile:
 
 To run the first test case: 
 
- $ ./test_assign3 and the second one, type: ./test_expr
+ $ ./test_assign3 
+ 
+and the second one: 
+ 
+ $ ./test_expr
 
 
 ***IMPLEMENTATION DESIGN***
-
 
 Storage Manager: Implement a storage manager that allows read/writing of blocks to/from a file on disk
 
